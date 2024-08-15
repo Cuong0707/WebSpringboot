@@ -11,6 +11,8 @@ trong website có những mặt hàng như như đồng hồ, laptop, máy tính
 ![image](https://github.com/user-attachments/assets/3cfb9d91-bc11-45bf-8186-4a8f77ab8abd)
 
 2. Bên phải là danh mục lựa chọn sản phẩm theo nhu cầu và phần giỏ hàng.
+
+
 ![image](https://github.com/user-attachments/assets/74568ea2-a21e-4028-b207-3eeb730186e5)
 
 3 Phần đăng nhập: cho phép đăng nhập để mua hàng
