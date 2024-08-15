@@ -6,7 +6,10 @@ trong website có những mặt hàng như như đồng hồ, laptop, máy tính
   - Backend: Java, SpringBoot.
 
 . Demo một số chức năng trong web:
-
+ - Account:
+   + Admin: director | 123 
+   + User: ALFKI | alfki
+   
 1. Trang chủ: Hiển thị khi user lần đầu truy cập website
 ![image](https://github.com/user-attachments/assets/3cfb9d91-bc11-45bf-8186-4a8f77ab8abd)
 
